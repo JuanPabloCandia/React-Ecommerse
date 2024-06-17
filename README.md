@@ -1,0 +1,1 @@
+Proyecto de ecommerce hecho con React utilizando ecommerce.js para agregar los productos y consumir la api como moestrarlos en la aplicacion, se hizo el carrito de compras usando stripe para hacer el checkout 
